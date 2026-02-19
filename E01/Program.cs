@@ -6,7 +6,7 @@ namespace E01
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP1!");
+            Console.WriteLine("U+00AE");
         }
     }
 }
